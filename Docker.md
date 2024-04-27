@@ -1,1 +1,1 @@
-Container : 
+Container : A way to package application will all the necessary  
