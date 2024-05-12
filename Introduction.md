@@ -1,0 +1,2 @@
+- Thank you for giving me this opportunity to introduce myself. Here is a bit about myself. I am software developer having experience in frontend and backend technologies to develop responsive web applications.
+- I have completed by Bachelors in Engineering and started working at Fiserv as a Full stack deve
