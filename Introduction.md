@@ -1,2 +1,2 @@
 - Thank you for giving me this opportunity to introduce myself. Here is a bit about myself. I am software developer having experience in frontend and backend technologies to develop responsive web applications.
-- I have completed by Bachelors in Engineering and started working at Fiserv. I worked on web based applications which includes payment
+- I have completed by Bachelors in Engineering and started working at Fiserv. I worked on web based applications which was based on payment domain 
