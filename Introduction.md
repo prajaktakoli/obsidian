@@ -1,2 +1,4 @@
-- Thank you for giving me this opportunity to introduce myself. Here is a bit about myself. My full name is Prajakta Koli. I am full stack software developer having 6 years experience in developing responsive web applications.
-- I started working at Fiserv on web based applications. For 2which was based on payment domain 
+- Thank you for giving me this opportunity to introduce myself. Here is a bit about myself. My full name is Prajakta Koli and based out of Pune. I am full stack software developer having 6 years experience in developing responsive web applications.
+- I started working at Fiserv on web based applications. Major based on payment domain 
+- I continued my journey at TietoEvry where the product was a case and document management tool, I worked on Angular 7 and ASP.Net core and DBs
+- Currently I am working at Barclays for past 2.5 years and recen
