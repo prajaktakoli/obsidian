@@ -1,2 +1,2 @@
-- Thank you for giving me this opportunity to introduce myself. Here is a bit about myself. My fullname is Prajakta Koli. I am full stack software developer having experience in frontend and backend technologies to develop responsive web applications.
-- I have completed by Bachelors in Engineering and started working at Fiserv. I worked on web based applications which was based on payment domain 
+- Thank you for giving me this opportunity to introduce myself. Here is a bit about myself. My full name is Prajakta Koli. I am full stack software developer having 6 years experience in developing responsive web applications.
+- I started working at Fiserv on web based applications. For 2which was based on payment domain 
