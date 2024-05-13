@@ -2,3 +2,6 @@
 - I started working at Fiserv on web based applications. My tenure at Fiserv honed my skills as I engaged in the agile development of a web application based on payment domain leveraging ASP.NET Core for Microservices and Angular for the frontend.
 - I continued my journey at TietoEvry where the product was a case and document management tool, I worked on Angular 7 and Java, DBs. My contributions were instrumental in integrating Tableau UI into Angular 7 and optimizing code performance to address critical production issues.
 - Currently I am working at Barclays for past 2.5 years for Risk Solutions Group where we are currently using Angular 14 and ASP.Net as the backend technology.I am engaged in agile methodology. I have been recognized for excellent service and rapid career advancement as I got promoted
+- -------------------------------------------
+- Thanks for the opportunity, so hello. My name is Prajakta Koli. I have 6 years of experience across 3 companies of which I am currently working at Barclays for a couple and a half years.
+- I am a full stack developer and 
