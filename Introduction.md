@@ -4,4 +4,4 @@
 - Currently I am working at Barclays for past 2.5 years for Risk Solutions Group where we are currently using Angular 14 and ASP.Net as the backend technology.I am engaged in agile methodology. I have been recognized for excellent service and rapid career advancement as I got promoted
 - -------------------------------------------
 - Thanks for the opportunity, so hello. My name is Prajakta Koli. I have 6 years of experience across 3 companies of which I am currently working at Barclays for a couple and a half years.
-- I am a full stack developer where in I have experience in working on ASP.net and ASP.net core for developing microservices for backend and Angular on the frontend side. My career experience is majorly in developing scalable web applications.
+- I am a full stack developer where in I have experience in working on ASP.net and ASP.net core for developing microservices for backend and Angular on the frontend side. My career experience is majorly in developing scalable web applications. These are the just the technologies that I use professionally, apart from these when I am working on personal projects I w
