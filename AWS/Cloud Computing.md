@@ -29,4 +29,5 @@ Service Model:
 IAAS
 PAAS
 SAAS
-
+![[Pasted image 20240518232552.png]]
+IAAS - Provides basic infrastucture services
