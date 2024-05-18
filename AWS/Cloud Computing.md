@@ -16,4 +16,10 @@ Eg. Instaed of saving files on local storage device, store it on the internet
 
 Types of Cloud Computing
 - Deployment Model vs Service Model
+
 ![[Pasted image 20240518205257.png]]
+
+Deployment Model 
+Public  - Cost effective, pay only for stuff which you are using
+Private - Very costly
+Hybrid - Combination of public + private
