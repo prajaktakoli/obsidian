@@ -31,3 +31,7 @@ PAAS
 SAAS
 ![[Pasted image 20240518232552.png]]
 IAAS - Provides basic infrastucture services
+Services are based on pay as you go model
+
+PAAS - provides cloud platforms and runtime environments for developing, testing and managing applications.
+It allows software devlopers to deploy applications without requring related infrastructure.
