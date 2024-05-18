@@ -12,4 +12,8 @@ Cloud
 - less implementation time
 --------------------------------------------
 Cloud Computing : it delivers on demand computing services over the internet on pay as you go basis
-Eg. Instaed of saving files on 
+Eg. Instaed of saving files on local storage device, store it on the internet
+
+Types of Cloud Computing
+- Deployment Model vs Service Model
+![[Pasted image 20240518205257.png]]
