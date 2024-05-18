@@ -23,4 +23,10 @@ Deployment Model
 Public  - Cost effective, pay only for stuff which you are using, cloud infrasture made available to the general public over the internet and owned by cloud provider
 Private - Very costly, cloud infrastruture is managed by a single company, may exists as on premise or off premise
 Hybrid - Combination of public + private
-![[Pasted image 20240518205726.png]]
+- For eg. federal agencies use private cloud to share sensitive information and public cloud to share datasets with general public
+![[Pasted image 20240518205726.png]]------------------------------------------------------------------------------------------------
+Service Model:
+IAAS
+PAAS
+SAAS
+
