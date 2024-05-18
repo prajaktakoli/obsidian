@@ -38,4 +38,5 @@ It allows software devlopers to deploy applications without requring related inf
 
 SAAS - All software and hardware are provided and managed by a vendor so you dont have to maintain anything. Cloud providers host and manage  the application on pay as you go basis.
 Eg. Gmail, MS office
-![[Pasted image 20240518233243.png]]
+![[Pasted image 20240518233243.png]]Eg. Baking a cake
+![[Pasted image 20240518233516.png]]
