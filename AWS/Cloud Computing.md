@@ -10,3 +10,6 @@ Cloud
 - Collaboration is widespread across different locations
 - Data can be accessed and shared anywhere over the internet
 - less implementation time
+--------------------------------------------
+Cloud Computing : it delivers on demand computing services over the internet on pay as you go basis
+Eg. Instaed of saving files on 
