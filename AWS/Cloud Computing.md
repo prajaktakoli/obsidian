@@ -23,3 +23,4 @@ Deployment Model
 Public  - Cost effective, pay only for stuff which you are using
 Private - Very costly
 Hybrid - Combination of public + private
+![[Pasted image 20240518205726.png]]
