@@ -7,3 +7,5 @@ When you want SPA, but dont want to load the application all at once, which cab 
 Modules - Separate your project into section and use these sections to load specific parts only when necessary. That is divide applications into parts and then use lazy loading to load only when it is required.
 
 Component - It comprises of class, HTML and CSS
+Interpolation - way to bind data between HTML and its class. 
+- use {{}} to display data dynamically.
