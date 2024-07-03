@@ -13,4 +13,7 @@ Selector - The `selector` property of the component configuration gives you a 
 Standalone component - can be used independently without needing to be a part of angular module
 - to create standalone components use below syntax
 -- ng generate component my-standalone-component --standalone
-set **standalone: true**: This property makes the component standalone.
+- set **standalone: true**: This property makes the component standalone.
+-------------------------------------------------------------------
+
+Ngif or @if
