@@ -9,3 +9,4 @@ Modules - Separate your project into section and use these sections to load spec
 Component - It comprises of class, HTML and CSS
 Interpolation - way to bind data between HTML and its class. 
 - use {{}} to display data dynamically.
+The `selector` property of the component configuration gives you a name to use when referencing the component in another template.
