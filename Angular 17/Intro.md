@@ -18,3 +18,9 @@ Standalone component - can be used independently without needing to be a part of
 
 Ngif or @if
 The syntax that enables the conditional display of elements in a template is `@if`.
+@if(){
+}
+@else
+{
+
+}
