@@ -8,3 +8,4 @@ in java, everything should be an object. It also means that evrything should be 
 Commands 
 javac hello.java ( hello is filename) : it is used for compilation
 java Hello (Hello is classname) :  used to run code
+![[Pasted image 20241218160528.png]]
