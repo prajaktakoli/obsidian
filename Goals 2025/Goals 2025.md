@@ -21,11 +21,11 @@ Wealth 💸
 
 Career 💻
 - Master Java, Spring Boot, ReactJS, AWS, Docker, Kubernetes, Linux(by April end)
-- Learn System Design 1 hr every week (in cab)
+- Learn System Design 1 hr every week (in cab/Sunday evening)
 	- Using xxx series / person 
 - Become FAANG ready by June
 - Create a portfolio site 
-- Switch to high paying job
+- Switch to high paying job - April end
 - Think of a side business (finding niche, tools, and strategy)
 - Start with AI /ML 
 
