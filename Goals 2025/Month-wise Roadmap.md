@@ -3,7 +3,7 @@ JANUARY
 	- Yoga classes /Skincare routine/ 
 	- Weight reduction to 55 kg
 	- Complete Java and Spring Boot notes and interview questions
-	- study System design - (HLD) from Gaurav Sen videos o
+	- study System design - (HLD) from Gaurav Sen videos 
 	- In cab - start with AWS
 	- Start with 3 DSA problems a week
 	- 20K steps
@@ -16,3 +16,9 @@ FEBRUARY
 - Increase problems to 5 DSA problems
 - System design
 - Increase steps to 30k
+
+MARCH
+
+APRIL
+- PPF of 120K
+- 
