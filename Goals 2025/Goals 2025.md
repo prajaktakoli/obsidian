@@ -19,6 +19,8 @@ Wealth 💸
 - Invest 80K per month
 	- xxx in Stocks
 	- xxx in MF
+	- Gold
+	- Silve
 - Monitor expenses and create a budget
 	- explore, learn & use xxx app / software weekly for tracking
 - Plan F.I.R.E.
@@ -30,8 +32,8 @@ Career 💻
 - Become FAANG ready by June
 - Create a portfolio site
 - Switch to high paying job
-- Start a side business
-- Start with AI
+- Start a side business - 
+- Start with AI -
 
 Family and Relationships 👨‍👦‍👦
 - Trip to Singapore with Prasad
