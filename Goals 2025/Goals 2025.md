@@ -27,11 +27,12 @@ Career 💻
 - Create a portfolio site 
 - Switch to high paying job
 - Think of a side business (finding niche, tools, and strategy)
-- Start with AI 
+- Start with AI /ML 
 
 Family and Relationships 👨‍👦‍👦
 - Trip to Singapore with Prasad
 - Plan next trip
+-  Concieving prep
 
 Hobby 💡
 - Read 6 Fiction books
