@@ -26,8 +26,8 @@ Career 💻
 - Become FAANG ready by June
 - Create a portfolio site 
 - Switch to high paying job
-- Start a side business 
-- Start with AI -
+- Think of a side business (finding niche, tools, and strategy)
+- Start with AI 
 
 Family and Relationships 👨‍👦‍👦
 - Trip to Singapore with Prasad
