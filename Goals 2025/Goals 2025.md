@@ -1,5 +1,5 @@
 
-Health
+Health 
 - Reduce weight to 52kgs
 - Continue with Yoga classes every month
 - Walk atleast 40k steps per week
@@ -43,4 +43,8 @@ Discipline
 - Do skin care routine every week
 
 Books to read:
-- The Forty rules of Love by Elif 
+- The Forty rules of Love by Elif Shafak - July/Aug
+- The Alchemist by Paulo Coelho - May/June
+- Veronica decides to die by Paulo Coelho - Jan/Feb
+- 1984 by George Orwell - March/ April
+- When I am with you by Durjoy Dutta - Sept/Oct
