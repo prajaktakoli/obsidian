@@ -1,13 +1,9 @@
 
 Health 💪
 - Reduce weight to 52 kgs
-	- Need to add xxx activity daily
-	- Need to reduce xxx daily
+	- Need to reduce diet daily 
 - Continue with Yoga classes every month
 - Walk atleast 40k steps per week
-	- xxx in office days
-	- xxx steps WFH days
-	- xxx steps in night / evening rounds
 - Meditate everyday
 - Reduce junk food to 1 day per week
 	- We can eat xxx while outing
@@ -20,7 +16,7 @@ Wealth 💸
 	- xxx in Stocks
 	- xxx in MF
 	- Gold
-	- Silve
+	- Silver
 - Monitor expenses and create a budget
 	- explore, learn & use xxx app / software weekly for tracking
 - Plan F.I.R.E.
