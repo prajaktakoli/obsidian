@@ -30,3 +30,17 @@ Hobby
 - Attend 2 dance workshops
 - Join some dance class with Prasad
 - Plan badminton biweekly
+
+Desires
+- Get an iPhone 16 (If you switch and visit Dubai)
+- Get a new house
+- Learn car driving and get a black car
+
+Discipline
+- Screen time to be < 4 hours
+- Sleep before 11.30 PM and wake up at 6:45 AM
+- Instagram usage <45 mins
+- Do skin care routine every week
+
+Books to read:
+- The Forty rules of Love by Elif 
