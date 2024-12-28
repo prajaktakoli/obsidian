@@ -5,15 +5,16 @@ Health 💪
 	- Reduce junk food to 1 day per week
 - Continue with Yoga classes every month
 - Walk atleast 40k steps per week
-- Meditate everyday
-- Start drinking honey lemon water everyday
+- Meditate everyday (in cabs/home/everywhere possible) for 10 mins
+- Start drinking honey lemon/chia seeds water everyday
 
 Wealth 💸
 - Invest 80K per month
-	- xxx in Stocks
 	- xxx in MF
 	- Gold
 	- Silver
+	- 1 NSC per year - 150K
+	- 1 PPF - 120K
 - Monitor expenses and create a budget
 	- explore, learn & use xxx app / software weekly for tracking
 - Plan F.I.R.E.
