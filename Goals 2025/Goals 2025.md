@@ -17,12 +17,16 @@ Health 💪
 
 Wealth 💸
 - Invest 80K per month
+	- xxx in Stocks
+	- xxx in MF
 - Monitor expenses and create a budget
+	- explore, learn & use xxx app / software weekly for tracking
 - Plan F.I.R.E.
 
 Career 💻
 - Master Java, Spring Boot, ReactJS, AWS, Docker, Kubernetes, Linux
 - Learn System Design 1 hr every week
+	- Using xxx series / person 
 - Become FAANG ready by June
 - Create a portfolio site
 - Switch to high paying job
