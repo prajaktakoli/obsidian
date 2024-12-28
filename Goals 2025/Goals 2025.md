@@ -16,12 +16,12 @@ Wealth 💸
 	- 1 NSC per year - 150K
 	- 1 PPF - 120K
 - Monitor expenses and create a budget
-	- explore, learn & use xxx app / software weekly for tracking
+	- explore, learn & use gpay app / software weekly for tracking
 - Plan F.I.R.E.
 
 Career 💻
 - Master Java, Spring Boot, ReactJS, AWS, Docker, Kubernetes, Linux
-- Learn System Design 1 hr every week
+- Learn System Design 1 hr every week (in cab)
 	- Using xxx series / person 
 - Become FAANG ready by June
 - Create a portfolio site
