@@ -1,6 +1,8 @@
 
 Health 💪
 - Reduce weight to 52 kgs
+	- Need to add xxx activity daily
+	- Need to add xxx activity daily
 - Continue with Yoga classes every month
 - Walk atleast 40k steps per week
 - Meditate everyday
@@ -10,7 +12,7 @@ Health 💪
 Wealth 💸
 - Invest 80K per month
 - Monitor expenses and create a budget
-- Plan FIRE
+- Plan F.I.R.E.
 
 Career 💻
 - Master Java, Spring Boot, ReactJS, AWS, Docker, Kubernetes, Linux
