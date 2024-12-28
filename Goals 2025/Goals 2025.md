@@ -32,13 +32,13 @@ Career 💻
 Family and Relationships 👨‍👦‍👦
 - Trip to Singapore with Prasad
 - Plan next trip
--  Concieving prep
+-  Conceiving prep till June 2025
 
 Hobby 💡
 - Read 6 Fiction books
 - Attend 2 dance workshops
-- Join some dance class with Prasad
-- Plan badminton biweekly
+- Learn something with Prasad
+- Plan badminton monthly
 
 Desires 🤩
 - Get an iPhone 16 (If you switch and visit Dubai)
