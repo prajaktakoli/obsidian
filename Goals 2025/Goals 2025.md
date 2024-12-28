@@ -9,7 +9,7 @@ Health 💪
 - Start drinking honey lemon/chia seeds water everyday
 
 Wealth 💸
-- Invest 80K per month
+- Invest 70K per month
 	- xxx in MF
 	- Gold
 	- Silver
