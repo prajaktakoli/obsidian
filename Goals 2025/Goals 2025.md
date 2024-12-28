@@ -25,7 +25,7 @@ Career 💻
 	- Using xxx series / person 
 - Become FAANG ready by June
 - Create a portfolio site 
-- Switch to high paying job - April end
+- Switch to high paying job - March end
 - Think of a side business (finding niche, tools, and strategy)
 - Start with AI /ML 
 

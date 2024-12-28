@@ -1,0 +1,4 @@
+JANUARY
+	- Start meditatt
+	-
+	
