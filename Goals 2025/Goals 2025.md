@@ -20,13 +20,13 @@ Wealth 💸
 - Plan F.I.R.E.
 
 Career 💻
-- Master Java, Spring Boot, ReactJS, AWS, Docker, Kubernetes, Linux
+- Master Java, Spring Boot, ReactJS, AWS, Docker, Kubernetes, Linux(by April end)
 - Learn System Design 1 hr every week (in cab)
 	- Using xxx series / person 
 - Become FAANG ready by June
-- Create a portfolio site
+- Create a portfolio site 
 - Switch to high paying job
-- Start a side business - 
+- Start a side business 
 - Start with AI -
 
 Family and Relationships 👨‍👦‍👦
