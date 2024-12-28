@@ -1,14 +1,11 @@
 
 Health 💪
 - Reduce weight to 52 kgs
-	- Need to reduce diet daily 
+	- Need to reduce diet daily  
+	- Reduce junk food to 1 day per week
 - Continue with Yoga classes every month
 - Walk atleast 40k steps per week
 - Meditate everyday
-- Reduce junk food to 1 day per week
-	- We can eat xxx while outing
-	- We can take xxx from home while hanging around
-	- We can eat xxx in clubs
 - Start drinking honey lemon water everyday
 
 Wealth 💸
