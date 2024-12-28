@@ -30,7 +30,7 @@ Career 💻
 - Start with AI /ML 
 
 Family and Relationships 👨‍👦‍👦
-- Trip to Singapore with Prasad
+- Trip to Singapore with Prasad - january 2025
 - Plan next trip
 -  Conceiving prep till June 2025
 
