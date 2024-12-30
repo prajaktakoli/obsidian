@@ -8,6 +8,7 @@ JANUARY
 	- Start with 3 DSA problems a week
 	- 20K steps
 	- Veronica decides to die by Paulo Coelho
+	- 1 badminton session
 	
 FEBRUARY
 - Weight reduction to 52 kg
@@ -17,14 +18,19 @@ FEBRUARY
 - System design
 - Increase steps to 30k
 - Linux
+- 1 badminton session
+- Yoga days count
 
 MARCH
-- Linux/Microservices
+- Linux/Microservices/Docker/Kubernetes
 - Steps 30K
 - Yoga classes everyday 
 - 1984 Book starts
-- Interview a
+- Interview and resume update
+- Portfolio creation
+- 1 badminton session
 
 APRIL
 - PPF of 120K
 - 1984 book start
+- 1 badminton session
