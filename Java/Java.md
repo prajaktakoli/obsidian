@@ -43,4 +43,4 @@ for binary :
 int num = 0b101; --> 5
 int num = 0x7E --> 126
 int num = 100_00_000
-double num = 12e10 --> 1.2e
+double num = 12e10 --> 1.2e11
