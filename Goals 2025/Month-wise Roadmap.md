@@ -32,5 +32,5 @@ MARCH
 
 APRIL
 - PPF of 120K
-- 1984 book start
+- 1984 book
 - 1 badminton session
