@@ -47,4 +47,5 @@ double num = 12e10 --> 1.2e11
 
 -----------
 Type conversion and casting
-
+Implicit (from byte to int) and explicit (int to byte) 
+eg. (byte)a
