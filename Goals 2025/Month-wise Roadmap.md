@@ -16,10 +16,15 @@ FEBRUARY
 - Increase problems to 5 DSA problems
 - System design
 - Increase steps to 30k
+- Linux
 
 MARCH
-- 
+- Linux/Microservices
+- Steps 30K
+- Yoga classes everyday 
+- 1984 Book starts
+- Interview a
 
 APRIL
 - PPF of 120K
-- 
+- 1984 book start
