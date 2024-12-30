@@ -49,3 +49,8 @@ double num = 12e10 --> 1.2e11
 Type conversion and casting
 Implicit (from byte to int) and explicit (int to byte) 
 eg. (byte)a
+
+byte b = 126;
+int a = 257
+b = (byte) a
+in this case : it will convert 257 %256(256 means the range of byte -128 to 127) and b will be = 1;
