@@ -37,3 +37,10 @@ java Hello (Hello is classname) :  used to run code
 - **JVM**: Like a chef (executor).
 - **JRE**: Like a fully equipped kitchen (execution-only).
 - **JDK**: Like a kitchen + grocery store (development + execution).
+-------------
+data types - int, byte, short, long, float, decimal, char, boolean
+for binary :
+int num = 0b101; --> 5
+int num = 0x7E --> 126
+int num = 100_00_000
+double num = 12e10 --> 1.2e
