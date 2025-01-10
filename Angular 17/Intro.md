@@ -24,3 +24,5 @@ The syntax that enables the conditional display of elements in a template is `@
 {
 
 }
+
+@for - The syntax that enables repeating elements in a template
