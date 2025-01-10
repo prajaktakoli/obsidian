@@ -26,4 +26,7 @@ The syntax that enables the conditional display of elements in a template is `@
 }
 
 @for - The syntax that enables repeating elements in a template
--
+---------------------------------
+Property Bindind : enables you to set values for properties of HTML elements.
+Use to dynamically set values for properties and attributes.
+Toggle button features, set image paths programmatically
