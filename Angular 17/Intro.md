@@ -31,4 +31,7 @@ Property Bindind : enables you to set values for properties of HTML elements.
 Use to dynamically set values for properties and attributes.
 Toggle button features, set image paths programmatically.
 To bind an element's attribute, bind the attribute name in sqaure brackets
-<img alt="photo" [src]="imageURL"/>
+<. img alt="photo" [src]="imageURL"/>
+
+----------------------
+@Event Binding:
