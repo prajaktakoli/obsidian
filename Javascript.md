@@ -13,4 +13,5 @@ eg. let name;
 constants : value of constants do not change
 
 let interestRate = 0.3;
-in
+interesetRate = 1;
+console.log(interestRate) //it will give error as constants cannot be reassigned.
