@@ -25,5 +25,13 @@ Types
 	5. null
 2. reference 
 	1. Objects
-	2. Arrays
-	3. Functions
+			let person = {
+
+			name : 'Mosh',
+
+			age : 30
+		}
+
+console.log(person);
+	1. Arrays
+	2. Functions
