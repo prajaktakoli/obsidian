@@ -54,6 +54,7 @@ we can also store multiple types in an array like - ['red', 'blue', 1];
 ----------------
 Functions :
 -> Performs a task
+-> Calculates a value
 function greet(){
 	console.log('Hello World);
 }
@@ -66,3 +67,10 @@ function greet(name) //parameter --
 	console.log('Hello ' + name);
 }
 greet('John'); //argument is the actual value which we provide at the time of calling
+
+----------------------
+function square(numb)
+{
+	return numb * numb;
+}
+console.log(square(numb));
