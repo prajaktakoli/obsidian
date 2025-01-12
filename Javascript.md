@@ -53,7 +53,7 @@ we can also store multiple types in an array like - ['red', 'blue', 1];
 
 ----------------
 Functions :
-
+-> Performs a task
 function greet(){
 	console.log('Hello World);
 }
