@@ -79,4 +79,4 @@ console.log(square(numb));
 Closures:
 - A closure is a function defined inside of another function.
 - The inner function has access to the variables and scope of the outer function
-- 
+- by using closures, they allow private variables and state maintenance
