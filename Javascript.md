@@ -53,3 +53,16 @@ we can also store multiple types in an array like - ['red', 'blue', 1];
 
 ----------------
 Functions :
+
+function greet(){
+	console.log('Hello World);
+}
+greet();
+
+Passing parameters to a function:
+
+function greet(name)
+{
+	console.log('Hello ' + name);
+}
+greet('John');
