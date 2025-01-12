@@ -12,4 +12,4 @@ Features:
 A single thread will handle the multiple request
 ![[Pasted image 20250112213724.png]]
 
-A single thread will serve the Request but it will not wait for the
+A single thread will serve the Request. If the request has to query the DB, the thread will not wait for the request the data
