@@ -40,4 +40,13 @@ Accessing properties of objects using below methods:
 
 -------------
 Arrays : to store a list
-length is dynamic
+length is dynamic.
+to access elements using square brackets - selectedColors[2];
+
+let selectedColors = ['red', 'blue'];
+
+selectedColors[2] = 'green';
+
+console.log(selectedColors);
+----------------------
+we can also store multiple types in an array like - ['red', 'blue', 1];
