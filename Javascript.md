@@ -25,13 +25,15 @@ Types
 	5. null
 2. reference 
 	1. Objects
-			let person = {
-
+	2. Arrays
+	3. Functions
+	----------------------
+	Objects :
+	let person = {
 			name : 'Mosh',
-
 			age : 30
 		}
-
-console.log(person);
-	1. Arrays
-	2. Functions
+	console.log(person);
+Accessing properties of objects using below methods:
+1. Dot Notation
+		person.name = 'John';
