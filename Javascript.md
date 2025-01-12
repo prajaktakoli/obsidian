@@ -50,3 +50,6 @@ selectedColors[2] = 'green';
 console.log(selectedColors);
 ----------------------
 we can also store multiple types in an array like - ['red', 'blue', 1];
+
+----------------
+Functions :
