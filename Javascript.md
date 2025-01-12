@@ -61,8 +61,8 @@ greet();
 
 Passing parameters to a function:
 
-function greet(name)
+function greet(name) //parameter -- 
 {
 	console.log('Hello ' + name);
 }
-greet('John');
+greet('John'); //argument is the actual value which we provide at the time of calling
