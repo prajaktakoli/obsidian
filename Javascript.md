@@ -37,3 +37,6 @@ Types
 Accessing properties of objects using below methods:
 1. Dot Notation
 		person.name = 'John';
+
+-------------
+Arrays : 
