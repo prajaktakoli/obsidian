@@ -39,4 +39,5 @@ Accessing properties of objects using below methods:
 		person.name = 'John';
 
 -------------
-Arrays : 
+Arrays : to store a list
+length is dynamic
