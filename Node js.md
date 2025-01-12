@@ -26,3 +26,5 @@ Global Objects:
 - setInterval()
 - clearInterval()
 
+In node, internally it is called as global.console.log whereas in case of javascript it is windows.console.log()
+____________________________
