@@ -14,7 +14,7 @@ Wealth 💸
 	- Gold
 	- Silver
 	- 1 NSC per year - 150K
-	- 1 PPF - 120K
+	- 1 PPF - 150K
 - Monitor expenses and create a budget
 	- explore, learn & use gpay app / software weekly for tracking
 - Plan F.I.R.E.
