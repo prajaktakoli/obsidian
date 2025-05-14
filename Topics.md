@@ -13,3 +13,6 @@ JAVA
 - Stream API
 - Lambda expressions
 - Functional Interface
+- Marker interface
+- Anonymous classes
+- instanceOf
