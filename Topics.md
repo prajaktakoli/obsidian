@@ -1,4 +1,11 @@
 JAVA
 - OOPs - real world analogy
 - Abstract class/Interface - their difference
-- 
+- Access Modifiers
+- Static vs instance classes
+- final keyword
+- static variables, methods, static block
+- this keyword
+- super keyword
+- exception handling
+- string vs stringbuilder vs stringbuffer
