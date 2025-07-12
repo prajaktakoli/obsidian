@@ -16,3 +16,12 @@ JAVA
 - Marker interface
 - Anonymous classes
 - instanceOf
+
+------------------------
+Design Patterns
+- Singleton
+- Factory
+- Builder
+- Saga Pattern
+----------------------
+Angular 14 Topics
