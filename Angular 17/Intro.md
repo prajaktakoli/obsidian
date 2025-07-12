@@ -24,3 +24,4 @@ A **component** is the fundamental building block of an Angular application, res
 
 ----------------------
 Interpolation
+https://chatgpt.com/share/687237b0-5784-8007-9189-12aaf26b8b5d
