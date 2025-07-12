@@ -25,3 +25,5 @@ Design Patterns
 - Saga Pattern
 ----------------------
 Angular 14 Topics
+- Component
+- Interpolation
