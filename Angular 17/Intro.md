@@ -177,3 +177,18 @@ CopyEdit
 
 ✔️ User types → name updates automatically  
 ✔️ You change `name` in TS → UI updates automatically.
+
+A **Directive** is a class that **adds behavior** to elements in the DOM.
+ngIf, ngSwitch, ngFor
+
+### Service:
+- A **Service** is a reusable class where you **put business logic, data access, API calls, reusable functions**.
+    
+- **Services help keep components clean** and focused only on UI.
+- Fetch API data
+- Perform calculations
+- Share data between components
+    
+- Manage authentication
+    
+- Create utilities
