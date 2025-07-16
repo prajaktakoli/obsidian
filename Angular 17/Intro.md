@@ -158,3 +158,22 @@ Data Binding means **connecting data** between the **Component (TypeScript)** an
 |2️⃣ Property Binding|`[property]="value"`|Bind DOM properties (like src, href, etc.) to component data.|
 |3️⃣ Event Binding|`(event)="handler()"`|Bind DOM events (like click) to component methods.|
 |4️⃣ Two-way Binding|`[(ngModel)]="property"`|Sync data between template and component **both ways**.|
+
+## **Two-way Binding** — Both Update
+
+- Update value **in component** when **user types** and **update UI** when **component changes** value
+
+✅ Requires `FormsModule` imported in `app.module.ts`.
+
+ts
+
+`export class AppComponent {   name = '  '; }`
+
+html
+
+CopyEdit
+
+`<input [(ngModel)]="name" placeholder="Enter your name"> <p>Your name is: {{ name }}</p>`
+
+✔️ User types → name updates automatically  
+✔️ You change `name` in TS → UI updates automatically.
