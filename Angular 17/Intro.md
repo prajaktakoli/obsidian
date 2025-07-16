@@ -73,3 +73,5 @@ Component:
     - a **template** (HTML),
     - and optional **CSS styles**.
 - Components are **reusable and modular**.
+- ✔ `@Component` decorator tells Angular this is a component.  
+✔ `selector` is used to insert the component into HTML (`<app-welcome></app-welcome>`).
