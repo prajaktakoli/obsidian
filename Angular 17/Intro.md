@@ -47,4 +47,29 @@ ng serve                     # Run app locally (localhost:4200)
 ng generate component myComp # Create component (auto updates module)
 ng generate service myService # Create service
 ng build                     # Build app for production
- 
+
+Angular CLI is a command-line interface that automates project setup, building, testing, and code generation tasks.
+
+### What’s inside `app.module.ts`?
+
+**A:** It’s the root module that imports components, services, and other modules. It defines the bootstrap component of the app
+
+### What’s the role of `angular.json`?
+
+**A:** It configures how Angular builds your app (entry files, assets, output paths, styles/scripts).
+
+### What happens when you run `ng serve`?
+
+**A:** Angular compiles your app, starts a local development server, and hot-reloads the browser on changes.
+
+### What is the `main.ts` file?
+
+**A:** It’s the entry point of the Angular app — it bootstraps `AppModule` and launches the app.
+
+Component:
+- A **component** controls a **part of the screen (UI)**.
+- It has:
+    - a **TypeScript class** (business logic),
+    - a **template** (HTML),
+    - and optional **CSS styles**.
+- Components are **reusable and modular**.
