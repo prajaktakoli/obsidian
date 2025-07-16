@@ -105,3 +105,34 @@ import { Component, Input } from '@angular/core';
 export class ChildComponent {
   @Input() childMessage: string = '';
 }
+
+
+@Output:
+- **@Output()** is used to **send data or events** from **Child → Parent** component.
+- Child component **emits** an event and parent **listens** to it.
+
+// child.component.ts
+import { Component, Output, EventEmitter } from '@angular/core';
+
+@Component({
+  selector: 'app-child',
+  template: `<button (click)="sendMessage()">Send to Parent</button>`
+})
+export class ChildComponent {
+  @Output() messageEvent = new EventEmitter<string>();
+
+  sendMessage() {
+    this.messageEvent.emit('Hello Parent!');
+  }
+}
+
+// parent.component.html
+<app-child (messageEvent)="receiveMessage($event)"></app-child>
+<p>{{ receivedMessage }}</p>
+
+// parent.component.ts
+receivedMessage: string = '';
+
+receiveMessage(msg: string) {
+  this.receivedMessage = msg;
+}
