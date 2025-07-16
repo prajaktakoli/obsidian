@@ -188,7 +188,46 @@ ngIf, ngSwitch, ngFor
 - Fetch API data
 - Perform calculations
 - Share data between components
-    
 - Manage authentication
-    
 - Create utilities
+
+// file: message.service.ts
+import { Injectable } from '@angular/core';
+
+@Injectable({
+  providedIn: 'root' // Service available globally
+})
+export class MessageService {
+  getMessage() {
+    return 'Hello from Service!';
+  }
+}
+
+
+// file: app.component.ts
+import { Component } from '@angular/core';
+import { MessageService } from './message.service'; // Import service
+
+@Component({
+  selector: 'app-root',
+  template: `<p>{{ message }}</p>`
+})
+export class AppComponent {
+  message: string = '';
+
+  constructor(private messageService: MessageService) {}
+
+  ngOnInit() {
+    this.message = this.messageService.getMessage();
+  }
+}
+- **Dependency Injection (DI)** is a **design pattern** where a **class receives its dependencies from external sources** rather than creating them itself.
+- In Angular, DI is **automatic** — Angular **injects the service** where it is needed.
+ ✅ Angular automatically **injects** it via the constructor:
+- constructor(private messageService: MessageService) {} // ✅ correct
+
+|Point|Explanation|
+|---|---|
+|`@Injectable({providedIn: 'root'})`|Makes the service available application-wide (singleton).|
+|Singleton Service|Only **one instance** is created and shared.|
+|Sharing Data|Services can store shared data that multiple components can access.|
