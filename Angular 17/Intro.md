@@ -62,7 +62,8 @@ Angular CLI is a command-line interface that automates project setup, building, 
 
 **A:** Angular compiles your app, starts a local development server, and hot-reloads the browser on changes.
 
-### What is the `main.ts` file?
+### 
+What is the `main.ts` file?
 
 **A:** It’s the entry point of the Angular app — it bootstraps `AppModule` and launches the app.
 
@@ -143,3 +144,16 @@ receiveMessage(msg: string) {
 - The parent **catches the event** and updates its `receivedMessage`.
 
 Data Binding means **connecting data** between the **Component (TypeScript)** and the **Template (HTML)**.
+
+----------------------------------
+
+
+| Type              | Syntax                   | Purpose                                                       |
+|-------------------|---------------------------|----------------------------------------------------------------|
+| Interpolation     | `{{ }}`                   | Display data from component to template.                       |
+| Property Binding  | `[property]="value"`      | Bind DOM properties (like `src`, `href`) to component data.    |
+| Event Binding     | `(event)="handler()"`     | Bind DOM events (like `click`) to component methods.           |
+| Two-way Binding   | `[(ngModel)]="property"`  | Sync data between template and component both ways.            |
+
+
+
