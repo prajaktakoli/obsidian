@@ -231,3 +231,5 @@ export class AppComponent {
 |`@Injectable({providedIn: 'root'})`|Makes the service available application-wide (singleton).|
 |Singleton Service|Only **one instance** is created and shared.|
 |Sharing Data|Services can store shared data that multiple components can access.|
+
+
