@@ -136,3 +136,10 @@ receivedMessage: string = '';
 receiveMessage(msg: string) {
   this.receivedMessage = msg;
 }
+
+**How it works:**
+
+- Clicking the button in the child **emits an event** carrying a string.
+- The parent **catches the event** and updates its `receivedMessage`.
+
+Data Binding means **connecting data** between the **Component (TypeScript)** and the **Template (HTML)**.
