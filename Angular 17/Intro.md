@@ -148,12 +148,13 @@ Data Binding means **connecting data** between the **Component (TypeScript)** an
 ----------------------------------
 
 
-| Type              | Syntax                   | Purpose                                                       |
-|-------------------|---------------------------|----------------------------------------------------------------|
-| Interpolation     | `{{ }}`                   | Display data from component to template.                       |
-| Property Binding  | `[property]="value"`      | Bind DOM properties (like `src`, `href`) to component data.    |
-| Event Binding     | `(event)="handler()"`     | Bind DOM events (like `click`) to component methods.           |
-| Two-way Binding   | `[(ngModel)]="property"`  | Sync data between template and component both ways.            |
 
 
 
+
+|Type|Syntax|Purpose|
+|---|---|---|
+|1️⃣ Interpolation|`{{ }}`|Display data from component to template.|
+|2️⃣ Property Binding|`[property]="value"`|Bind DOM properties (like src, href, etc.) to component data.|
+|3️⃣ Event Binding|`(event)="handler()"`|Bind DOM events (like click) to component methods.|
+|4️⃣ Two-way Binding|`[(ngModel)]="property"`|Sync data between template and component **both ways**.|
