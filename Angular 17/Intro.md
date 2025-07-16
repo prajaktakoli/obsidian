@@ -75,3 +75,33 @@ Component:
 - Components are **reusable and modular**.
 - ✔ `@Component` decorator tells Angular this is a component.  
 ✔ `selector` is used to insert the component into HTML (`<app-welcome></app-welcome>`).
+
+| Lifecycle Hook            | Purpose                                                                                                                           |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| `ngOnChanges()`           | Called when **@Input()** values change (before ngOnInit). Good for reacting to input changes.                                     |
+| `ngOnInit()`              | Called once when component is initialized. Best place to fetch **API data**, set default values.                                  |
+| `ngDoCheck()`             | Called during **every change detection**. Used for custom change detection if needed (rarely used).                               |
+| `ngAfterContentInit()`    | Called after Angular projects external content into the component (`<ng-content>`).                                               |
+| `ngAfterContentChecked()` | Called after every check of projected content.                                                                                    |
+| `ngAfterViewInit()`       | Called after component’s view and child views are fully initialized. Good for **DOM queries** (`@ViewChild`).                     |
+| `ngAfterViewChecked()`    | Called after every check of the component's view.                                                                                 |
+| `ngOnDestroy()`           | Called just before the component is destroyed. Best place to **unsubscribe** observables, **clear timers** to avoid memory leaks. |
+
+@Input:
+- **@Input()** is used to **pass data** from **Parent → Child** component.
+    
+- Child component **receives** the value.
+- // parent.component.html
+<app-child [childMessage]="parentMessage"></app-child>
+// parent.component.ts
+parentMessage = 'Hello from Parent!';
+// child.component.ts
+import { Component, Input } from '@angular/core';
+
+@Component({
+  selector: 'app-child',
+  template: `<p>{{ childMessage }}</p>`
+})
+export class ChildComponent {
+  @Input() childMessage: string = '';
+}
