@@ -62,7 +62,7 @@ Angular CLI is a command-line interface that automates project setup, building, 
 
 **A:** Angular compiles your app, starts a local development server, and hot-reloads the browser on changes.
 
-### 
+### Major tasks
 What is the `main.ts` file?
 
 **A:** It’s the entry point of the Angular app — it bootstraps `AppModule` and launches the app.
@@ -233,3 +233,5 @@ export class AppComponent {
 |Sharing Data|Services can store shared data that multiple components can access.|
 
 
+
+###
