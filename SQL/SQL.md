@@ -8,5 +8,14 @@
 - ACID principles
 - Union vs Union ALL
 - SP
-- Functions - types of functiosn
-- Can we can
+- Functions - types of function
+- Can we call an SP in a function
+- Aggregate vs Scalar functions
+- Cursor
+- Triggers
+- Clustered vs Non Clustered Indexes
+- Views
+- CTE
+- Rank vs DenseRank, Row_number
+- What are SQL injection attacks, how to prevent it?
+- Parameterized queries
