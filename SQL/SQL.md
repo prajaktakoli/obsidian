@@ -1,0 +1,12 @@
+- Primary key
+- Foreign Key
+- Joins 
+- Self join
+- Primary Key vs Unique key
+- Delete vs Truncate vs Drop
+- Normalization vs Denormalization
+- ACID principles
+- Union vs Union ALL
+- SP
+- Functions - types of functiosn
+- Can we can

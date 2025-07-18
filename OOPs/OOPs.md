@@ -6,4 +6,5 @@
 - Abstract class vs Interface
 - Access modifiers
 - Method overloading vs Method overriding
-- Ne
+- New keyword
+- SOLID principles - real world examples
