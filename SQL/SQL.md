@@ -19,3 +19,6 @@
 - Rank vs DenseRank, Row_number
 - What are SQL injection attacks, how to prevent it?
 - Parameterized queries
+- Where vs Having
+- Group by
+- Temp table
