@@ -49,3 +49,37 @@ q.offer("Task1");
 q.offer("Task2");
 q.poll(); // Removes "Task1"
 ```
+
+---
+
+## 23. Map Implementations in Java
+
+| Class           | Ordering          | Null Keys | Null Values | Internal DS      | Thread-safe |
+| --------------- | ----------------- | --------- | ----------- | ---------------- | ----------- |
+| `HashMap`       | ❌ Unordered       | ✅ 1 key   | ✅ multiple  | Hash Table       | ❌ No        |
+| `LinkedHashMap` | ✅ Insertion       | ✅ 1 key   | ✅ multiple  | Hash Table + DLL | ❌ No        |
+| `TreeMap`       | ✅ Sorted (by key) | ❌ No      | ✅ Yes       | Red-Black Tree   | ❌ No        |
+
+---
+## 🔍 HashMap
+
+- Unordered
+- Allows **one null key**, many null values
+- Key is hashed → bucket → linked list (or tree if many collisions)
+
+```java
+Map<String, Integer> map = new HashMap<>();
+map.put("Java", 90);
+map.put(null, 50);
+System.out.println(map.get(null)); // 50
+```
+## LinkedHashMap
+
+- Maintains **insertion order**
+- Slightly slower than HashMap
+
+
+```
+Map<String, String> linked = new LinkedHashMap<>(); 
+linked.put("A", "Apple"); linked.put("B", "Banana");
+```
