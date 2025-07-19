@@ -48,5 +48,4 @@ Queue<String> q = new LinkedList<>();
 q.offer("Task1");
 q.offer("Task2");
 q.poll(); // Removes "Task1"
-
 ```

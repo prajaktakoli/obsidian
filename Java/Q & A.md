@@ -132,3 +132,24 @@
 **Q2:** Which is better for multi-threaded programs?  
 **A:** `StringBuffer`.
 
+**Q1:** What's the difference between List and Set?  
+**A:** List allows duplicates and maintains insertion order. Set doesn't allow duplicates.
+
+**Q2:** When would you use a Map over a List?  
+**A:** Use Map for key-value pairs (like a dictionary), List for ordered values.
+
+**Q3:** Is Queue part of List?  
+**A:** ❌ No. Queue and List both extend Collection but serve different purposes.
+
+**Q4:** ArrayList vs LinkedList?  
+**A:**
+
+- ArrayList: Fast `get(index)`, slow `add(index)`
+- LinkedList: Slow `get(index)`, fast `add/remove`
+- 
+**Q5:** HashSet vs TreeSet?  
+**A:**
+
+- HashSet: Unordered, faster
+- TreeSet: Sorted, slower
+
