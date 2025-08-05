@@ -8,7 +8,7 @@
 ### 🔸 Primitive Types (stored directly):
 
 🔸 Reference Types (store memory reference):
-## **Pass by Value**
+## ***Pass by Value***
 
 All arguments in Java are passed **by value**, not by reference:
 
