@@ -4,4 +4,17 @@ created by facebook
 -reusable code
 -declarative - tell react whta you want and react will build the UI for you
 
-Javasx
+Javascript :
+this
+map
+filter
+reduce
+
+let
+const
+arrow functions
+template literals
+default parameters
+object literals
+rest and spread
+destructing assignment
