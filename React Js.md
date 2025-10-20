@@ -19,4 +19,10 @@ object literals
 rest and spread
 destructing assignment
 
-npx create-react-app helloworld : npx
+2 ways to create react app
+1.npx create-react-app helloworld : npm package runner
+
+2.npm install create-react-app -g
+create-react-app helloworld
+
+package.json : 
