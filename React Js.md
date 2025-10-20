@@ -25,4 +25,8 @@ destructing assignment
 2.npm install create-react-app -g
 create-react-app helloworld
 
-package.json : 
+package.json : dependencies, name version
+node modules : folder where dependencies are installed
+public : index.html : only html files, only 1 div tag, as SPA
+src : 
+starting point of application is index.js, we specify the root component there, 
