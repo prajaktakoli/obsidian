@@ -29,4 +29,5 @@ package.json : dependencies, name version
 node modules : folder where dependencies are installed
 public : index.html : only html files, only 1 div tag, as SPA
 src : 
-starting point of application is index.js, we specify the root component there, 
+starting point of application is index.js, we specify the root component there, which is App component and the DOM element which will be controlled by react, DOm element with ID - root
+App.js : 
