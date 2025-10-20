@@ -40,3 +40,5 @@ part of UI, reusable , can contain other components eg. App contains other compo
 Component is placed in js file
 2 types
 ![[Pasted image 20251020173339.png]]
+Functional Components
+takes props as input and returns HTML as ouput
