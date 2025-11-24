@@ -14,5 +14,6 @@ Service
 - Interface - it defines the methods to be implemented - takes DTO object and returns DTO object
 - Implementation - 
 	- It implements the methods defined in the interface
-	- It also uses the autowire keyword for the repository DI - In case of 
--
+	- It also uses the autowired keyword for the repository DI - In case of constructor injection it is not required
+	- It has DTO as an input to the methods and output is also a DTO
+	- 
