@@ -29,4 +29,5 @@ Controller :
 - RequestBody - convert the request body mostly json to the object - json -> to java
 - Path variable - identify resource as a part of the url, uses {} to enclose the
 - RequestParam - they act as filters
-- ![[Pasted image 20251125193548.png]]
+- ![[Pasted image 20251125193548.png]]-
+- RequestBody - for body frm js
