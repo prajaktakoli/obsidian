@@ -19,3 +19,8 @@ Service
 
 Mapper class
 - It has methods to convert the DTO object to Entity object and vis-e-versa
+
+Controller : 
+- RestController as an annotation on the class,
+- RequestMapping to map the request to the controller
+- Methods - Get, Post, Put, Patch, Delet
