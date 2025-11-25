@@ -28,4 +28,5 @@ Controller :
 - PostMapping - on the method
 - RequestBody - convert the request body mostly json to the object - json -> to java
 - Path variable - identify resource as a part of the url, uses {} to enclose the
-- RequestParam - 
+- RequestParam - they act as filters
+- ![[Pasted image 20251125193548.png]]
