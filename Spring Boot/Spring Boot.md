@@ -30,4 +30,4 @@ Controller :
 - Path variable - identify resource as a part of the url, uses {} to enclose the
 - RequestParam - they act as filters
 - ![[Pasted image 20251125193548.png]]-
-- RequestBody - for body frm js
+- RequestBody - for body from json, take request body as Map<> and then extract the parameter for which you want to get the request body
