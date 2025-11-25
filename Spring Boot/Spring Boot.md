@@ -27,3 +27,5 @@ Controller :
 - Eg- Post method returns a ResponseEntity<'Of DTO Type'>
 - PostMapping - on the method
 - RequestBody - convert the request body mostly json to the object - json -> to java
+- Path variable - identify resource as a part of the url
+- RequestParam - 
