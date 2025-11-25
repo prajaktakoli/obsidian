@@ -16,4 +16,6 @@ Service
 	- It implements the methods defined in the interface
 	- It also uses the autowired keyword for the repository DI - In case of constructor injection it is not required
 	- It has DTO as an input to the methods and output is also a DTO
-	- 
+
+Mapper class
+- It has methods to convert the DTO object to Entity object and vis-e-versa
