@@ -23,4 +23,7 @@ Mapper class
 Controller : 
 - RestController as an annotation on the class,
 - RequestMapping to map the request to the controller
-- Methods - Get, Post, Put, Patch, Delet
+- Methods - Get, Post, Put, Patch, Delete
+- Eg- Post method returns a ResponseEntity<'Of DTO Type'>
+- PostMapping - on the method
+- RequestBody - convert the request body mostly json to the object - json -> to java
