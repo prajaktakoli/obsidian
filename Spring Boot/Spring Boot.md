@@ -75,3 +75,5 @@ These annotations are used in the data access layer to manage data and transacti
 - **`@Id`**: Specifies the primary key of an entity.
 - **`@GeneratedValue`**: Specifies how the primary key value should be generated.
 - **`@Transactional`**: Ensures that a method or class is executed within a transactional context, automatically handling commit or rollback operations.
+- 
+https://dev.to/isaactony/learn-the-basics-of-spring-security-50b7
