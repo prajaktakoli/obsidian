@@ -1,5 +1,12 @@
 - Health
-- ``
+		- Reduce weight to 50kg
+		- 
 - Finance
+	- Invest 1.4L per month
+	- Get own house
+	- 
+	
 - Personal Goals
+	- Learn car driving
+	- Management 
 - 
