@@ -1,16 +1,21 @@
 - Health
-	- Reduce weight to 50kg
+	- Reduce weight to 50kg until Feb end
 	- Continue with yoga for atleast 4 days a week
-	- No sugar unless necessary
-	- Kid planning
+	- No sugar 
+	- Kid planning until March 2026
 - Finance
 	- Invest 1.4L per month
-	- Get own house
-	- 
+	- 1 PPF
+	- 1 Term Deposit
+	- Get own house - 2 BHK in Kharadi/ Kalyani Nagar/Magarpatta
+	- Get my own black sedan car
+	- Get  latest Apple watch
+	- Get myself good gold jewellery - bracelet/ mangalsutra/ rings/ earrings
 	
 - Personal Goals
 	- Learn car driving
 	- Managerial skills
 	- Continue with haircare and skincare routine
-	- Move to Bangalore with a 60 LPA job
+	- Move to Bangalore with a 60 LPA job at Oracle or remote job
+	- 
 	
