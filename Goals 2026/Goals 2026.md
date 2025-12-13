@@ -3,8 +3,16 @@
 	- Continue with yoga for atleast 4 days a week
 	- No sugar 
 	- Kid planning until March 2026
-	- 
+	- Meditate for 10 mins everyday
+	- No screen time 1 hour after waking up
+	- Face - No darkcircles, no pigmented lips
+	- Nails - long and healthy
+	- No cholestrol
+	- Hair - long, strong, silky
+	- Vitamun D and B12 should be correct next year
+	
 - Finance
+	- Networth should be 2 cr by Dec end
 	- Invest 1.4L per month
 	- 1 PPF
 	- 1 Term Deposit
@@ -17,8 +25,7 @@
 - Personal Goals
 	- Learn car driving
 	- Improve Managerial skills and time management skills and communication skills
-	- Hair - long, strong, silky
-	- Face -
+	
 	- 
 	
 - Technical Skills
