@@ -4,12 +4,11 @@
 	- No sugar 
 	- Kid planning until March 2026
 	- Meditate for 10 mins everyday
-	- No screen time 1 hour after waking up
 	- Face - No darkcircles, no pigmented lips
 	- Nails - long and healthy
 	- No cholestrol
 	- Hair - long, strong, silky
-	- Vitamun D and B12 should be correct next year
+	- Vitamin D and B12 should be correct
 	
 - Finance
 	- Networth should be 2 cr by Dec end
@@ -25,11 +24,13 @@
 - Personal Goals
 	- Learn car driving
 	- Improve Managerial skills and time management skills and communication skills
-	
+	- No screen time 1 hour after waking 
+	- Sleep by 11
+	- Screen time less than 5 hours
 	- 
 	
 - Technical Skills
-	- Master React Js/JAva-Spring Boot
+	- Master React Js/Java-Spring Boot/AWS and Docker/Kafka
 	- System design - 1 hour per week
 	- Solve atleast 4 DSA problems per week
 	- Learn something new every week
