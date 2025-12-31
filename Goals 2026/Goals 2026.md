@@ -1,6 +1,6 @@
 - Health
 	- Reduce weight to 52kg until March 10
-	- Continue with yoga for atleast 4 days a week
+	- start with yoga for atleast 4 days a week
 	- No sugar 
 	- Kid planning until March 2026
 	- Meditate for 10 mins everyday
