@@ -32,6 +32,6 @@ MENTAL HEALTH
 RULES 
 - No fight should last after 11:30 PM
 - No booking cab/auto and leaving the room
-- No silent treatment more than 2 hours
-- Resolve fight that day itself by asking your wid
- 
+- No silent treatment more than 1 hour
+- Try to understand the problem
+- 
