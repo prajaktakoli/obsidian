@@ -17,13 +17,15 @@ WEALTH
 
 TECHNICAL
 - Learn leadership skills
+- System design 1 hour per week
+- Remote job/ start freelancing
 
 
 
 CREATIVITY
 - Driving classes from March 2026
 - 1 dance workshop
-- Start reading books - 1 book per quarter
+- Start reading books - 2 books per year
 
 MENTAL HEALTH
 - Meditate 5 mins every day
