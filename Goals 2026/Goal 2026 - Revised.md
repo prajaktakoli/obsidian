@@ -6,6 +6,8 @@ HEALTH
 - Take control of routine diet
 - Sleep by 11.30 PM everyday
 - Plan baby
+- No cholestrol
+- Walk 6k steps daily
 
 WEALTH
 - Track expense / month - (10k travel  + 5k misc)
@@ -15,6 +17,7 @@ WEALTH
 - Yearly net worth goal - 1.5 cr
 
 TECHNICAL
+- 50 LPA job
 - Learn leadership skills
 - System design 1 hour per week
 - Remote job - cloudhire/ start freelancing
@@ -25,9 +28,10 @@ CREATIVITY
 - Start reading books - 2 books per year
 - Create 1 dance reel with Prasad 
 
-
 MENTAL HEALTH
 - Meditate 5 mins every day
+- Positive affirmations reciting
+- Listen to hanuman chalisa
 
 BEAUTY:
 - Long nails,long shiny thick healthy hair
@@ -38,7 +42,7 @@ BEAUTY:
 
 GROOMING:
 - Personal development activities
-- Get Apple watch S
+- Get Apple watch 
 RULES 
 - BE A HUSBAND from 2026
 - No fight should last after 11:30 PM
