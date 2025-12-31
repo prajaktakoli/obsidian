@@ -23,6 +23,7 @@ CREATIVITY
 - Driving classes from March 2026
 - 1 dance workshop
 - Start reading books - 2 books per year
+- Create 1 dance reel with Prasad 
 
 MENTAL HEALTH
 - Meditate 5 mins every day
