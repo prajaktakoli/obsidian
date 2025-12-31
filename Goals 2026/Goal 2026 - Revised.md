@@ -14,13 +14,10 @@ WEALTH
 - Buy car - 6L
 - Yearly net worth goal - 1.5 cr
 
-
 TECHNICAL
 - Learn leadership skills
 - System design 1 hour per week
 - Remote job/ start freelancing
-
-
 
 CREATIVITY
 - Driving classes from March 2026
