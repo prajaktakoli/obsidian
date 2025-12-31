@@ -5,6 +5,7 @@ HEALTH
 - Prepare weekly meal plan - ASAP
 - Take control of routine diet
 - Sleep by 11.30 PM everyday
+- Plan baby
 
 WEALTH
 - Track expense / month - (10k travel  + 5k misc)
@@ -21,7 +22,8 @@ TECHNICAL
 
 CREATIVITY
 - Driving classes from March 2026
-- 1 
+- 1 dance workshop
+- Start reading books - 1 book per quarter
 
 MENTAL HEALTH
 - Meditate 5 mins every day
