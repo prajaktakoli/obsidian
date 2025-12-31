@@ -25,11 +25,17 @@ CREATIVITY
 - Start reading books - 2 books per year
 - Create 1 dance reel with Prasad 
 
+
 MENTAL HEALTH
 - Meditate 5 mins every day
 
-
-
+BEAUTY:
+- Long nails,long shiny thick healthy hair
+- No pigmented lips
+- No dark circles
+- No belly fat
+- Weekly haircare and skin care routine
+- 
 RULES 
 - BE A HUSBAND from 2026
 - No fight should last after 11:30 PM
