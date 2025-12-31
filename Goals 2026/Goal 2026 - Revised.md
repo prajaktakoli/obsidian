@@ -7,8 +7,10 @@ HEALTH
 
 WEALTH
 - Track expense / month - (10k travel  + 5k misc)
-- Invest /month - 1.5L
-- Yearly networth goal
+- Invest /month - 1L
+- Buy house - 1 cr
+- Buy car - 6L
+- Yearly net worth goal - 2cr
 
 
 TECHNICAL
