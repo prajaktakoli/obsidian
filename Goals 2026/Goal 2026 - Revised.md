@@ -30,8 +30,9 @@ MENTAL HEALTH
 
 
 RULES 
+- BE A HUSBAND from 2026
 - No fight should last after 11:30 PM
 - No booking cab/auto and leaving the room
 - No silent treatment more than 1 hour
-- Try to understand the problem
+- Try to understand the problem from wife's persp
 - 
