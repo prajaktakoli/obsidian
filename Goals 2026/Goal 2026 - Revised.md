@@ -17,7 +17,7 @@ WEALTH
 TECHNICAL
 - Learn leadership skills
 - System design 1 hour per week
-- Remote job/ start freelancing
+- Remote job - cloudhire/ start freelancing
 
 CREATIVITY
 - Driving classes from March 2026
@@ -35,7 +35,10 @@ BEAUTY:
 - No dark circles
 - No belly fat
 - Weekly haircare and skin care routine
-- 
+
+GROOMING:
+- Personal development activities
+- Get Apple watch S
 RULES 
 - BE A HUSBAND from 2026
 - No fight should last after 11:30 PM
