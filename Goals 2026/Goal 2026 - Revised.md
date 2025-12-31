@@ -36,5 +36,5 @@ RULES
 - No silent treatment more than 1 hour
 - Try to understand the problem from wife's persp
 - No hitting, no pushing, no pulling hair
-- No "its over/im going/im done" & No "ja ghari by Prasad"
+- No "its over/im going/im done/comp" & No "ja ghari by Prasad"
 - 
