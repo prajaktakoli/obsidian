@@ -4,7 +4,6 @@ HEALTH
 - No junk - only once per week
 - Prepare weekly meal plan - ASAP
 - Take control of routine diet
-- Meditation each day - 5 mins
 - Sleep by 11.30 PM everyday
 
 WEALTH
@@ -21,5 +20,10 @@ TECHNICAL
 
 
 CREATIVITY
+- Driving classes from March 2026
+- 1 
 
-MENTAL
+MENTAL HEALTH
+- Meditate 5 mins every day
+- Start journaling
+- 
