@@ -6,8 +6,8 @@ HEALTH
 - Take control of routine diet
 
 WEALTH
-- Track expense / month - 
-- Invest /month
+- Track expense / month - (10k travel  + 5k misc)
+- Invest /month - 1.5L
 - Yearly networth goal
 
 
