@@ -26,5 +26,12 @@ CREATIVITY
 
 MENTAL HEALTH
 - Meditate 5 mins every day
-- Start journaling
-- 
+
+
+
+RULES 
+- No fight should last after 11:30 PM
+- No booking cab/auto and leaving the room
+- No silent treatment more than 2 hours
+- Resolve fight that day itself by asking your wid
+ 
