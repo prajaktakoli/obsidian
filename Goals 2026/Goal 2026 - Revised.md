@@ -35,4 +35,6 @@ RULES
 - No booking cab/auto and leaving the room
 - No silent treatment more than 1 hour
 - Try to understand the problem from wife's persp
+- No hitting, no pushing, no pulling hair
+- No making P alone at home
 - 
