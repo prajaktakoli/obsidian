@@ -11,63 +11,62 @@
 ---
 
 ## 🩺 HEALTH – Monthly Check
-- Weight (Start): _ kg  
-- Weight (End): ___ kg  
-- Yoga consistency: ⭐⭐⭐⭐⭐  
-- Steps consistency: ⭐⭐⭐⭐⭐  
-- Sleep by 11:30: ⭐⭐⭐⭐⭐  
-- Junk food control (≤1x/week): YES / NO  
-- Meal planning consistency: YES / NO  
-- Cholesterol-friendly diet: YES / NO  
-- Baby planning progress:
-  - 
+- Weight (Start): 58.4 kg  
+- Weight (End): 57.2 kg  
+- Yoga consistency: ⭐⭐
+- Steps consistency: ⭐⭐ 
+- Sleep by 11:30: ⭐⭐⭐
+- Junk food control (≤1x/week): YES / NO  - 2 times a week
+- Meal planning consistency: YES / NO  - No junk
+- Cholesterol-friendly diet: YES / NO  - yes 
+- Baby planning progress: Tried on 18th
 
 ---
 
 ## 💰 WEALTH – Monthly Check
-| Item | Target | Actual | Status |
-|----|----|----|----|
-| Travel Expense | 10k | | |
-| Misc Expense | 5k | | |
-| Investment | 1L | | |
-| Savings | | | |
+| Item           | Target | Actual | Status |
+| -------------- | ------ | ------ | ------ |
+| Travel Expense | 10k    |        |        |
+| Misc Expense   | 5k     |        |        |
+| Investment     | 1L     |        |        |
+| Savings        |        |        |        |
 
 - Net Worth (Start of month): ___  
-- Net Worth (End of month): ___  
+- Net Worth (End of month): 1.14 cr  
 
 ---
 
 ## 💻 TECHNICAL / CAREER – Monthly Check
-- System design (hrs): ___ / 4
-- Leadership learning: YES / NO
-- Job prep / networking: ⭐⭐⭐⭐⭐
-- Remote job / freelancing progress:
+- System design (hrs): 0 / 4
+- Leadership learning:  NO
+- Job prep / networking: ⭐
+- Remote job / freelancing progress: Nothing
   - 
 
 ---
 
 ## 🎨 CREATIVITY – Monthly Check
-- Reading progress (books): ___ / 2 (yearly)
-- Dance workshop: Planned / Done
-- Dance reel with Prasad: Idea / Shot / Posted
-- Driving classes prep: YES / NO
+- Reading progress (books): ___ / 2 (yearly) - Started Forty Rules of Love
+- Dance workshop: Planned / Done - None
+- Dance reel with Prasad: Idea / Shot / Posted - No
+- Driving classes prep: YES / NO - No
 
 ---
 
 ## 🧠 MENTAL HEALTH – Monthly Check
-- Meditation consistency: ⭐⭐⭐⭐⭐
-- Affirmations consistency: ⭐⭐⭐⭐⭐
-- Hanuman Chalisa consistency: ⭐⭐⭐⭐⭐
+- Meditation consistency: ⭐
+- Affirmations consistency: ⭐
+- Hanuman Chalisa consistency: ⭐
 
 ---
 
 ## 💄 BEAUTY & 🧍‍♀️ GROOMING – Monthly Check
-- Hair health: ⭐⭐⭐⭐⭐
-- Skin care consistency: ⭐⭐⭐⭐⭐
-- Dark circles improvement: YES / NO
-- Belly fat progress: ⭐⭐⭐⭐⭐
-- Apple Watch status: Planned / Bought
-- Personal development activities:
+- Hair health: ⭐
+- Skin care consistency: ⭐⭐
+- Dark circles improvement: No
+- Belly fat progress: ⭐
+- Apple Watch status: Planned / Bought - No
+- Personal development activities: - No
   - 
 
 ---
