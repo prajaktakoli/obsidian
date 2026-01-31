@@ -1,4 +1,3 @@
-# 🌱 LIFE GOALS MASTER TRACKER – {2026}
 
 ---
 

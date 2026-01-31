@@ -1,0 +1,93 @@
+# 🌙 Monthly Life Tracker – {{Jan 2026}}
+
+---
+
+## 🎯 Monthly Focus
+(Top 3 priorities this month)
+1. 
+2. 
+3. 
+
+---
+
+## 🩺 HEALTH – Monthly Check
+- Weight (Start): _ kg  
+- Weight (End): ___ kg  
+- Yoga consistency: ⭐⭐⭐⭐⭐  
+- Steps consistency: ⭐⭐⭐⭐⭐  
+- Sleep by 11:30: ⭐⭐⭐⭐⭐  
+- Junk food control (≤1x/week): YES / NO  
+- Meal planning consistency: YES / NO  
+- Cholesterol-friendly diet: YES / NO  
+- Baby planning progress:
+  - 
+
+---
+
+## 💰 WEALTH – Monthly Check
+| Item | Target | Actual | Status |
+|----|----|----|----|
+| Travel Expense | 10k | | |
+| Misc Expense | 5k | | |
+| Investment | 1L | | |
+| Savings | | | |
+
+- Net Worth (Start of month): ___  
+- Net Worth (End of month): ___  
+
+---
+
+## 💻 TECHNICAL / CAREER – Monthly Check
+- System design (hrs): ___ / 4
+- Leadership learning: YES / NO
+- Job prep / networking: ⭐⭐⭐⭐⭐
+- Remote job / freelancing progress:
+  - 
+
+---
+
+## 🎨 CREATIVITY – Monthly Check
+- Reading progress (books): ___ / 2 (yearly)
+- Dance workshop: Planned / Done
+- Dance reel with Prasad: Idea / Shot / Posted
+- Driving classes prep: YES / NO
+
+---
+
+## 🧠 MENTAL HEALTH – Monthly Check
+- Meditation consistency: ⭐⭐⭐⭐⭐
+- Affirmations consistency: ⭐⭐⭐⭐⭐
+- Hanuman Chalisa consistency: ⭐⭐⭐⭐⭐
+
+---
+
+## 💄 BEAUTY & 🧍‍♀️ GROOMING – Monthly Check
+- Hair health: ⭐⭐⭐⭐⭐
+- Skin care consistency: ⭐⭐⭐⭐⭐
+- Dark circles improvement: YES / NO
+- Belly fat progress: ⭐⭐⭐⭐⭐
+- Apple Watch status: Planned / Bought
+- Personal development activities:
+  - 
+
+---
+
+## ❤️ RELATIONSHIP RULES – Monthly Check
+- No fight after 11:30 PM: YES / NO
+- No silent treatment >1 hr: YES / NO
+- No leaving room / cab booking: YES / NO
+- No abusive actions: YES / NO
+- Wife’s perspective understood: ⭐⭐⭐⭐⭐
+
+---
+
+## 🏁 MONTHLY REVIEW
+- 🏆 Biggest win:
+  - 
+- ⚠ Needs improvement:
+  - 
+- 🔁 One habit to fix next month:
+  - 
+- ❤️ Overall self-rating (1–5): ⭐⭐⭐⭐☆
+
+---
