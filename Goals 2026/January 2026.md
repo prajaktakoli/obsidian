@@ -82,11 +82,12 @@
 
 ## 🏁 MONTHLY REVIEW
 - 🏆 Biggest win:
-  - 
+  - Reduced junk food, reduced weight, sleeping on time
 - ⚠ Needs improvement:
-  - 
+  -  Technical learning, hair health, mental health, no crying for the whole month
 - 🔁 One habit to fix next month:
-  - 
+  - Technical learning, hair health, mental health, complete the book
 - ❤️ Overall self-rating (1–5): ⭐⭐⭐⭐☆
+- 2/5
 
 ---
