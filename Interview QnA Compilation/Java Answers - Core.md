@@ -117,3 +117,8 @@ System.out.println(name.orElse("Default"));
 Heap Vs Stack
 - **Stack** → Stores _method calls & local variables_ (fast, auto-managed, thread-specific)
 - **Heap** → Stores _objects & instance data_ (shared, larger, managed by GC)
+
+String vs StringBuilder vs String Buffer
+- **String** → Immutable, thread-safe (because immutable), slower for frequent changes
+- **StringBuilder** → Mutable, _not thread-safe_, fastest for modifications
+- **StringBuffer** → Mutable, _thread-safe (synchronized)_, slower than StringBuilder
