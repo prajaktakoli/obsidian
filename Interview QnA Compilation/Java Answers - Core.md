@@ -73,3 +73,9 @@ Private : Same class
 Public : Accessible everywhere
 Protected : Same class, Same package and SUbclass in other package 
 Default : Same class and Same package
+_________
+This : current class object
+Super : Parent class object
+____
+Checked Exception : Checked at Compile Time, need to use try-catch/throws - IOException, SQLExcep
+Unchecked Exception : Occurs at Runtime - NullPointer
