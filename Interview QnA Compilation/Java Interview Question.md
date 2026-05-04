@@ -6,4 +6,4 @@ Exception handling - checked vs unchecked
 java 8+ features
 - Streams API - map, reduce, filter, collect
 - Lambda expressions
-- 
+- Functional i
