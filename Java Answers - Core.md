@@ -47,3 +47,23 @@ class Car extends Vehicle {
 # 4. Polymorphism (Many Forms)
 
 👉 **Idea:** Same method behaves differently.
+## A) Compile-time (Method Overloading)
+
+```
+class MathUtils {    int add(int a, int b) {        return a + b;    }    double add(double a, double b) {        return a + b;    }}
+```
+## B) Runtime (Method Overriding)
+
+### 🧠 Real-world Example:
+
+**Payment System**
+
+- CreditCard → different logic
+- UPI → different logic
+- 
+Think of **Amazon App**:
+
+- Encapsulation → User data hidden
+- Abstraction → UI hides backend logic
+- Inheritance → Seller/User classes extend base class
+- Polymorphism → Different payment methods behave differently
