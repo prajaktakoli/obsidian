@@ -98,6 +98,22 @@ Lambda Expression
 ```
 (a, b) -> a + b
 ```
-Functio
-
+Functional Interfaces
 - Interface with **only one abstract method**
+- `Predicate<T>` → returns boolean
+- `Function<T, R>` → input → output
+- `Consumer<T>` → takes input, no return
+- `Supplier<T>` → no input, returns value
+
+Optional API
+
+- Avoids **NullPointerException**
+
+```
+Optional<String> name = Optional.ofNullable(null);
+System.out.println(name.orElse("Default"));
+```
+
+Heap Vs Stack
+- **Stack** → Stores _method calls & local variables_ (fast, auto-managed, thread-specific)
+- **Heap** → Stores _objects & instance data_ (shared, larger, managed by GC)
