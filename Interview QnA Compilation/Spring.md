@@ -11,4 +11,9 @@ Rest API - @restcontroller, @getmapping
 Request validation @valid @requestbody
 exception handling - @ControllerAdvice, @exception handler
 DTO vs ENtity
-Repositories- JPAR
+Repositories- JPARepository, CrudRepository
+JPQL vs Native Queries
+PAgination and SOrting
+Entity Relationships - @OneToMany, @ManytoOne
+Lazy vs Eager Fetch
+Transactions = @Transactional, isolation levels
