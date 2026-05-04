@@ -1,0 +1,49 @@
+OOPs
+# . Encapsulation (Data Hiding)
+
+👉 **Idea:** Wrap data + methods together and restrict direct access.
+### 🧠 Real-world Example:
+
+Think of a **Bank Account**
+- You **can’t directly access balance**
+- You use methods like `deposit()` / `withdraw()`
+
+---
+
+### 💻 Java Example:
+
+```
+class BankAccount {    private double balance;  // hidden data    public void deposit(double amount) {        balance += amount;    }    public double getBalance() {        return balance;    }}
+```
+
+### ✅ Key Points:
+
+- Use `private` variables
+- Provide `getter/setter`
+- Improves security & control
+# 2. Abstraction (Hiding Implementation)
+
+👉 **Idea:** Show only essential details, hide internal logic.
+### 🧠 Real-world Example:
+Driving a **Car**
+- You use steering, brake, accelerator
+- You don’t know engine internals
+- 
+abstract class Vehicle {
+    abstract void start();  // only definition
+}
+
+class Car extends Vehicle {
+    void start() {
+        System.out.println("Car starts with key");
+    }
+}
+# 3. Inheritance (Code Reusability)
+
+👉 **Idea:** One class inherits properties of another.
+### 🧠 Real-world Example:
+**Animal → Dog**
+- Dog inherits eating, breathing from Animal
+# 4. Polymorphism (Many Forms)
+
+👉 **Idea:** Same method behaves differently.
