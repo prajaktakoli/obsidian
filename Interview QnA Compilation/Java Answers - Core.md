@@ -67,3 +67,5 @@ Think of **Amazon App**:
 - Abstraction → UI hides backend logic
 - Inheritance → Seller/User classes extend base class
 - Polymorphism → Different payment methods behave differently
+---------------
+Access Modifiers:
