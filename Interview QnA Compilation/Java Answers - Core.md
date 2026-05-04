@@ -77,5 +77,27 @@ _________
 This : current class object
 Super : Parent class object
 ____
-Checked Exception : Checked at Compile Time, need to use try-catch/throws - IOException, SQLExcep
-Unchecked Exception : Occurs at Runtime - NullPointer
+Checked Exception : Checked at Compile Time, need to use try-catch/throws - IOException, SQLException
+Unchecked Exception : Occurs at Runtime - NullPointerException
+
+-------
+Stream API :
+ Process collections in a **functional style (no loops)** → `filter()`, `map()`, `reduce()`, `collect()`
+
+```
+List<Integer> nums = List.of(1,2,3,4);
+nums.stream()    
+.filter(n -> n % 2 == 0)   // 2,4    
+.map(n -> n * 2)           // 4,8    
+.forEach(System.out::println);
+```
+
+Lambda Expression
+**Short way to write anonymous functions**
+
+```
+(a, b) -> a + b
+```
+Functio
+
+- Interface with **only one abstract method**
