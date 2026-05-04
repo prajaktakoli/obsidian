@@ -69,3 +69,7 @@ Think of **Amazon App**:
 - Polymorphism → Different payment methods behave differently
 ---------------
 Access Modifiers:
+Private : Same class
+Public : Accessible everywhere
+Protected : Same class, Same package and SUbclass in other package 
+Default : Same class and Same package
