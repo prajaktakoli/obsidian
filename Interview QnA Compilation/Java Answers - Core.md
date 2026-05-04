@@ -122,3 +122,7 @@ String vs StringBuilder vs String Buffer
 - **String** → Immutable, thread-safe (because immutable), slower for frequent changes
 - **StringBuilder** → Mutable, _not thread-safe_, fastest for modifications
 - **StringBuffer** → Mutable, _thread-safe (synchronized)_, slower than StringBuilder
+- https://javaconceptoftheday.com/java-strings-cheat-sheet/
+----------------
+#### COLLECTIONS
+https://javaconceptoftheday.com/java-collections-cheat-sheet/
