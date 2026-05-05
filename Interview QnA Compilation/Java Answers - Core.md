@@ -138,3 +138,6 @@ Comparator : Custom Ordering
 Used when you want **multiple/dynamic sorting logics**
 Compare()
 
+🔹 1. Fail-Fast Iterator
+Iterator that **throws `ConcurrentModificationException`** if collection is modified during iteration.
+2.Iterator that **does NOT throw exception**, works on a **copy of collection**
