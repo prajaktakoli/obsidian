@@ -126,3 +126,13 @@ String vs StringBuilder vs String Buffer
 ----------------
 #### COLLECTIONS
 https://javaconceptoftheday.com/java-collections-cheat-sheet/
+
+#### QUESTIONS
+Comparable vs Comparator : 
+
+Comparable : Natural Ordering : 
+Used when a class defines its **default/natural sorting logic**
+
+Comparator : Custom Ordering
+Used when you want **multiple/dynamic sorting logics**
+
