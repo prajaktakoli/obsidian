@@ -142,9 +142,12 @@ Compare()
 Iterator that **throws `ConcurrentModificationException`** if collection is modified during iteration.
 2.Iterator that **does NOT throw exception**, works on a **copy of collection**
 
-The primary difference between `Runnable` and `Callable` in Java is that ==**`Callable` can return a result and throw checked exceptions**, whereas **`Runnable` cannot**==. Both are functional interfaces used to encapsulate tasks meant to be executed by another thread. 
+The primary difference between `Runnable` and `Callable` in Java is that **`Callable` can return a result and throw checked exceptions**, whereas **`Runnable` cannot**. Both are functional interfaces used to encapsulate tasks meant to be executed by another thread. 
 
 Runnable vs Callable :  Both are functional interfaces
 Runnable :  Does not return result - returns void - Cannot throw checked exception - used by ExecutorService or Thread
 Callable: returns a result - throws checked exception - execution via ExecutorService
 
+The `volatile` keyword in Java is a non-access modifier used in multithreading to ensure that changes made to a variable by one thread are immediately visible to all other threads
+
+Synchronized : Used in multithreading to ensure that only a single thread  can access a specific resource or block of code at a time
