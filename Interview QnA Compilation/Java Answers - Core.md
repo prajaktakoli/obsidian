@@ -141,3 +141,5 @@ Compare()
 🔹 1. Fail-Fast Iterator
 Iterator that **throws `ConcurrentModificationException`** if collection is modified during iteration.
 2.Iterator that **does NOT throw exception**, works on a **copy of collection**
+
+The primary difference between `Runnable` and `Callable` in Java is that ==**`Callable` can return a result and throw checked exceptions**, whereas **`Runnable` cannot**==. Both are functional interfaces used to encapsulate tasks meant to be executed by another thread. 
