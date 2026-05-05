@@ -145,5 +145,6 @@ Iterator that **throws `ConcurrentModificationException`** if collection is modi
 The primary difference between `Runnable` and `Callable` in Java is that ==**`Callable` can return a result and throw checked exceptions**, whereas **`Runnable` cannot**==. Both are functional interfaces used to encapsulate tasks meant to be executed by another thread. 
 
 Runnable vs Callable :  Both are functional interfaces
-Runnable : 
-Callable: 
+Runnable :  Does not return result - returns void - Cannot throw checked exception - used by ExecutorService or Thread
+Callable: returns a result - throws checked exception - execution via ExecutorService
+
