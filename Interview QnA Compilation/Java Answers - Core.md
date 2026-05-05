@@ -132,7 +132,9 @@ https://javaconceptoftheday.com/java-collections-cheat-sheet/
 
 Comparable : Natural Ordering : 
 Used when a class defines its **default/natural sorting logic**
+CompareTo()
 
 Comparator : Custom Ordering
 Used when you want **multiple/dynamic sorting logics**
+Compare()
 
