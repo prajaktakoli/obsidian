@@ -6,4 +6,8 @@
 - Unit test cases
 - design CICD pipeline what is used - scripts?
 - monolithic or microservices appl
+- write frontend and backend code for Employee Management system
+- How to handle roles in React Spring boot
+- Annotations for Validations
+- If you want to send a message for validation where do you write it?
 - 
