@@ -1,0 +1,9 @@
+- ... operator in java
+- synchronous vs asynchronous maning
+- fat jar or plain jar
+- maven dependency 
+- Integration test case @WebMVCTest
+- Unit test cases
+- design CICD pipeline what is used - scripts?
+- monolithic or microservices appl
+- 
