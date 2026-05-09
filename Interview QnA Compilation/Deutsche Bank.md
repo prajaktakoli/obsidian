@@ -10,4 +10,3 @@
 - How to handle roles in React Spring boot
 - Annotations for Validations
 - If you want to send a message for validation where do you write it?
-- 
